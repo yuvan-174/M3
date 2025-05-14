@@ -14,7 +14,7 @@ To write a program to prepare EMI calculator using function without return type 
 6.	Stop the program.
 
 ## PROGRAM
-```
+```c
 #include <stdio.h>
 #include<math.h>
 void emi(float p,float r,float n)
@@ -62,7 +62,7 @@ To write a C program to generate the Fibonacci series for the value 6.
 7.	Stop the program.
 
 ## PROGRAM
-```
+```c
 #include<stdio.h>
 void fibonacci(int n)
 {
@@ -110,8 +110,7 @@ To write a C program to read n elements as input and print the last element of t
 5.	Stop the program.
 
 ## PROGRAM
-```
-
+```c
 #include<stdio.h>
 int main()
 {
@@ -152,7 +151,7 @@ To write a C Program to count total number of positive elements in an array.
 6.	Stop the program.
 
 ## PROGRAM
-```
+```c
 #include<stdio.h>
 int main()
 {
@@ -195,7 +194,7 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
-```
+```c
 #include <stdio.h>
 
 int main() {
